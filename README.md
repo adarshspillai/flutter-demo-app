@@ -4,7 +4,6 @@ A Flutter application implementing **Firebase Email & Password Authentication**
 using **MVVM architecture** with **Provider** for state management.
 
 ---
-
 ##  Features
 
 - Firebase Email/Password Authentication
@@ -13,7 +12,14 @@ using **MVVM architecture** with **Provider** for state management.
 - Input Validation
 - MVVM Architecture
 - Provider State Management
-- Clean & Scalable Code Structure
+
+##  Screenshots
+
+###  Login Screen
+![Login Screen](screenshots/login.png)
+
+###  Register Screen
+![Register Screen](screenshots/register.png)
 
 ---
 
