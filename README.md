@@ -15,11 +15,11 @@ using **MVVM architecture** with **Provider** for state management.
 
 ##  Screenshots
 
-###  Login Screen
-![Login Screen](screenshots/login.png)
+<p float="left">
+  <img src="screenshots/login.png" width="250"/>
+  <img src="screenshots/register.png" width="250"/>
+</p>
 
-###  Register Screen
-![Register Screen](screenshots/register.png)
 
 ---
 
